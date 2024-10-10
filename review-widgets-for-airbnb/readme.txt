@@ -5,7 +5,7 @@ Tags: airbnb, airbnb reviews, accommodations, apartments, reviews
 Requires at least: 3.0.1
 Tested up to: 6.6
 Requires PHP: 5.2
-Stable tag: 12.2
+Stable tag: 12.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Plugin Name: Widgets for Airbnb Reviews
@@ -14,7 +14,7 @@ Plugin URI: https://wordpress.org/plugins/review-widgets-for-airbnb/
 Author: Trustindex.io <support@trustindex.io>
 Author URI: https://www.trustindex.io/
 Text Domain: review-widgets-for-airbnb
-Version: 12.2
+Version: 12.3
 
 Embed Airbnb reviews fast and easily into your WordPress site. Increase SEO, trust and sales using Airbnb reviews.
 
@@ -46,6 +46,7 @@ One of the best ways to secure more user reviews is to solicit them through emai
 * 25+ Pre-designed widget styles
 * 1 Review widget
 * Filter reviews by rating
+* Display review reply
 * Hide any reviews
 * Language support
 * Shortcode integration
