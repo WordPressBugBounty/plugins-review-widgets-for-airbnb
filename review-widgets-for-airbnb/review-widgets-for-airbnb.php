@@ -9,7 +9,7 @@ Author: Trustindex.io <support@trustindex.io>
 Author URI: https://www.trustindex.io/
 Contributors: trustindex
 License: GPLv2 or later
-Version: 12.7.5
+Version: 12.7.6
 Requires at least: 6.2
 Requires PHP: 7.0
 Text Domain: review-widgets-for-airbnb
@@ -22,7 +22,7 @@ Copyright 2019 Trustindex Kft (email: support@trustindex.io)
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 require_once plugin_dir_path(__FILE__) . 'include' . DIRECTORY_SEPARATOR . 'cache-plugin-filters.php';
 require_once plugin_dir_path(__FILE__) . 'trustindex-plugin.class.php';
-$trustindex_pm_airbnb = new TrustindexPlugin_airbnb("airbnb", __FILE__, "12.7.5", "Widgets for Airbnb Reviews", "Airbnb");
+$trustindex_pm_airbnb = new TrustindexPlugin_airbnb("airbnb", __FILE__, "12.7.6", "Widgets for Airbnb Reviews", "Airbnb");
 $pluginManager = 'TrustindexPlugin_airbnb';
 $pluginManagerInstance = $trustindex_pm_airbnb;
 add_action('admin_init', function() { ob_start(); });
