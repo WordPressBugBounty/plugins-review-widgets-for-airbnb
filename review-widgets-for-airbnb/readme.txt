@@ -3,7 +3,7 @@ Contributors: trustindex
 Donate link: https://www.trustindex.io/prices/
 Tags: airbnb, airbnb reviews, accommodations, apartments, reviews
 Tested up to: 6.8
-Stable tag: 12.9
+Stable tag: 13.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Plugin Name: Widgets for Airbnb Reviews
@@ -12,7 +12,7 @@ Plugin URI: https://wordpress.org/plugins/review-widgets-for-airbnb/
 Author: Trustindex.io <support@trustindex.io>
 Author URI: https://www.trustindex.io/
 Text Domain: review-widgets-for-airbnb
-Version: 12.9
+Version: 13.0
 
 Embed Airbnb reviews fast and easily into your WordPress site. Increase SEO, trust and sales using Airbnb reviews.
 
